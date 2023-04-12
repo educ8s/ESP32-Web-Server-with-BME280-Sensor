@@ -22,11 +22,17 @@ An HTTP web server is running on this ESP32 board. If we open a Web Browser and 
 
 # Parts Needed
 
-🛒 ESP32 ▶ http://educ8s.tv/part/esp32s2
+🛒 ESP32: https://educ8s.tv/part/ESP32
 
-🛒 ESP32
+🛒 BME280: https://educ8s.tv/part/BME280
+
+🛒 100Ω Resistor: https://educ8s.tv/part/Resistors
+
+🛒 LED: https://educ8s.tv/part/LEDs
+
+🛒 Small Breadboard: https://educ8s.tv/part/SmallBreadboard
+
+🛒 Wires: https://educ8s.tv/part/Wires
 
 
 💖 Full disclosure: All of the links above are affiliate links. I get a small percentage of each sale they generate. Thank you for your support!
-
-
